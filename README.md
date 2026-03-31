@@ -116,6 +116,7 @@ Outfitly is an AI-powered fashion assistant app for the U.S. market. The product
 
 **Status:** Live  
 **Live Site:** https://www.bluetlas.com/  
+![Talent Excavator homepage screenshot](assets/images/talent-excavator-screenshot.jpg)
 **Role:** Founder / AI Product Lead  
 **Focus:** Conversational workflow, structured report generation, paid user flow
 
