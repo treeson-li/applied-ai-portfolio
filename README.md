@@ -194,4 +194,4 @@ I am currently open to remote opportunities in:
 
 - LinkedIn: https://www.linkedin.com/in/ming-li-cas/
 - GitHub: https://github.com/treeson-li
-- Email: liming.ioa+2026#gmail.com
+- Email: liming.ioa+2026@gmail.com
