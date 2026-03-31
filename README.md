@@ -8,6 +8,18 @@ This portfolio highlights selected recent projects that demonstrate my work in A
 
 ---
 
+## Quick Links
+
+- LinkedIn: https://www.linkedin.com/in/ming-li-cas/
+- GitHub Profile: https://github.com/treeson-li
+- Live Product: https://www.bluetlas.com/
+- Featured Projects:
+  - DemandRadar
+  - Outfitly
+  - Personal Talent Operating Manual
+
+---
+
 ## What I Work On
 
 - Applied machine learning systems
@@ -21,6 +33,8 @@ This portfolio highlights selected recent projects that demonstrate my work in A
 ## Featured Projects
 
 ### 1. DemandRadar — AI-Powered Demand Discovery and Validation Tool
+
+**One-line summary:** AI market-intelligence pipeline that turns community discussions into structured demand reports.
 
 **Status:** Pre-launch  
 **Role:** Founder / Applied AI Product Builder  
@@ -47,15 +61,6 @@ DemandRadar is an AI-powered demand discovery tool designed to identify real use
 - Structured artifacts and observability for debugging and iteration
 - Designed for future web product extension
 
-#### Representative workflow
-1. Generate and refine search queries
-2. Retrieve discussions from public sources
-3. Normalize and filter documents
-4. Extract user needs / pain points
-5. Embed and cluster demand signals
-6. Summarize and label topics
-7. Produce human-readable and structured reports
-
 #### Tech stack
 - Python
 - LLM APIs
@@ -67,6 +72,8 @@ DemandRadar is an AI-powered demand discovery tool designed to identify real use
 ---
 
 ### 2. Outfitly — AI Fashion Assistant
+
+**One-line summary:** Multimodal AI fashion assistant for outfit analysis, virtual try-on, and closet-based recommendations.
 
 **Status:** MVP in progress  
 **Role:** Founder / Product & AI Engineering Lead  
@@ -105,7 +112,10 @@ Outfitly is an AI-powered fashion assistant app for the U.S. market. The product
 
 ### 3. Personal Talent Operating Manual — AI-Powered Personalized Insight Web App
 
+**One-line summary:** Live AI web product that converts guided user conversations into personalized talent reports.
+
 **Status:** Live  
+**Live Site:** https://www.bluetlas.com/  
 **Role:** Founder / AI Product Lead  
 **Focus:** Conversational workflow, structured report generation, paid user flow
 
