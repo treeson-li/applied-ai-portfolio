@@ -16,7 +16,7 @@ This portfolio highlights selected recent projects that demonstrate my work in A
 - Featured Projects:
   - DemandRadar
   - Outfitly
-  - Personal Talent Operating Manual
+  - Talent Excavator
 
 ---
 
@@ -110,7 +110,7 @@ Outfitly is an AI-powered fashion assistant app for the U.S. market. The product
 
 ---
 
-### 3. Personal Talent Operating Manual — AI-Powered Personalized Insight Web App
+### 3. Talent Excavator — AI-Powered Personalized Insight Web App
 
 **One-line summary:** Live AI web product that converts guided user conversations into personalized talent reports.
 
@@ -119,7 +119,7 @@ Outfitly is an AI-powered fashion assistant app for the U.S. market. The product
 **Role:** Founder / AI Product Lead  
 **Focus:** Conversational workflow, structured report generation, paid user flow
 
-Personal Talent Operating Manual is an AI-powered web application that guides users through multi-turn conversations and generates personalized talent insight reports. The product includes payment unlock, online reading, PDF export, and email delivery.
+Talent Excavator is an AI-powered web application that guides users through multi-turn conversations and generates personalized talent insight reports. The product includes payment unlock, online reading, PDF export, and email delivery.
 
 #### What it does
 - Conducts guided multi-turn user interaction
